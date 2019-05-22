@@ -16,8 +16,8 @@
 ###### `greet(string)-> string`
 ###### `math.add(num1, num2)-> total= num1+num2`
 ###### `math.subtract(num1, num2)-> total= num1-num2`
-###### `math.subtract(num1, num2)-> total= num1*num2`
-###### `math.subtract(num1, num2)-> total= num1/num2`
+###### `math.multiply(num1, num2)-> total= num1*num2`
+###### `math.divide(num1, num2)-> total= num1/num2`
 
 Usage Notes or examples
 
